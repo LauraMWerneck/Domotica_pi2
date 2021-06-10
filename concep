@@ -1,0 +1,8 @@
+Concepção do projeto
+Este projeto tem com objetivo automatizar algumas funcionalidades de uma casa, para assim tornar o dia a dia mais tecnologico e pratico.
+Ele é voltado para pessoas as quais necessitem desse tipo de tecnologia por alguma necessidade especial como tambem para pessoas as qais queiram ter mais conforto em algumas atividades basicas da casa.
+Tendo em vista o publico alvo, pretende-se criar uma casa automatizada a qual possua: 
+*controle de iluminacao de forma remotas e com isso auxiliando no controle de gastos da casa pois caso esqueçam uma luz acesa e você queira desligar mas não está em casa você pode fazer isso remotamente e assim reduzir custos da conta de luz; 
+*com esse mesmo viés de economia de energia e também entrando na questão de segurança ter um Sensor de presença no jardim, o qual acende uma luz quando alguém for passar pelo jardim, assim quando você passar ele acende na hora e depois desliga mas também funcionando na questão de segurança por acender quando alguém tentar se aproximar da casa; 
+* ter um Sensor de gás na cozinha, o qual é acionado com a liberação de gás e que mande uma notificação ao morador da casa alertando sobre esse risco;
+*servomotor portão eletrônico, o qual pode ser acionado remotamente e assim sempre que estiver perto de casa e já quiser abrir ele você pode paraeconomizar tempo, ou então programar ele para abrir no horário que normalmente chega em casa.
