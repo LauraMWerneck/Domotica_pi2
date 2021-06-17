@@ -16,7 +16,7 @@ Nessa casa deseja-se automatizar algumas funções básicas para aumentar o conf
 * Sensor de gás na cozinha – ele detecta as concentrações de gases inflamáveis e informa caso tenha uma concentração muito alta. Ele auxilia na segurança da casa pois assim pode-se evitar vários acidentes envolvendo gases inflamáveis.
 * Servomotor no portão eletrônico - motor o qual vai auxiliar na  hora de abrir o portão de entrada da casa.
 
-## Ojetivos
+## Objetivos
 Para realização desse projeto têm-se os seguintes objetivos:
 * Traduzir requisitos do projeto em protótipo;
 * Construção de uma maquete seguindo o modelo da planta fornescida;
