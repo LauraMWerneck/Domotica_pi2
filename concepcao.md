@@ -1,6 +1,6 @@
 # Concepção do Projeto 
 
-Este projeto tem como base a construção do protótipo de uma casa, com o objetivo de automatizar algumas funcionalidades dela e assim mostrar como seria o uso da demótica em uma residência real e como isso tornar o dia a dia mais prático e tecnológico.
+Este projeto tem como base a construção do protótipo de uma casa, com o objetivo de automatizar algumas funcionalidades dela e assim mostrar como seria o uso da demótica em uma residência real e, como isso, tornar o dia a dia mais prático e tecnológico.
 
 ## O Projeto
 
