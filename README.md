@@ -8,3 +8,5 @@ Clicando nos tópicos abaixo será possivel ver com mais detalhes as etapas de c
  * [Introdução à Domótica](/introducao.md)
  
  * [Concepção do Projeto](/concepcao.md)
+ 
+ * [Design](/design.md)
