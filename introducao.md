@@ -3,6 +3,9 @@ Imagine poder chegar em casa após o trabalho e ela já estar com as luzes acesa
 
 Para que tudo isso seja possível é utilizada a Domótica, também conhecida como automação residencial. Ela trata da tecnologia capaz de automatizar algumas atividades diárias de uma casa e assim facilitar e dar conforto ao morador além de deixar a casa mais segura.
 
+![Figura 1: Casa Domotica.](./figuras/DOMOTICA.png)
+###### Fonte figura: https://leiritic.pt/domotica/
+
 A Domotica já vem sendo usada em dispositivos como por exemplo a Alexa da Amazom, que é um dispositivo de automação residencial que executa algumas tarefas como se conectar com tomadas, lâmpadas, rede wi-fi, executar comandos de voz, entre outras. Com ela podemos, pelo celular ou falando com ela, ligar luzes, acionar tomadas, fazer ligações tudo por meio de um comando.
 
 No entanto, a Domotica pode ser muito maior do que isso, sendo possível automatizar uma casa inteira para auxiliar em ações do dia a dia ou nos possibilitar novas, como por exemplo ter sua casa sempre monitorada por uma câmera de segurança a qual você pode acessar pelo celular e assim conferir, por exemplo, como está seu animal de estimação.
