@@ -4,7 +4,7 @@ Este projeto tem como base a construção do protótipo de uma casa, com o objet
 
 ## O Projeto
 
-Este projeto foi pensado para uma planta de uma casa de praia, como mostra a figura abaixo.
+Este projeto foi pensado para a planta de uma casa de praia, como mostra a figura abaixo:
 
 ###### Figura 1 - Planta baixa da casa.
 ![Figura 1: Planta baixa da casa.](./figuras/Planta_baixa_PI2.jpg)
