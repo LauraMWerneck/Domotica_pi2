@@ -1,6 +1,6 @@
 # *Design*
 
-Para começar a implementação do projeto iniciou-se pensando nos componentes necessarios e em como eles seriam ligados. Com base nisso, foi feita uma tabela com os componentes utilizados e uma maquete eletrônica que auxialia na visualização da intenção do *design*.
+Para começar a implementação do projeto iniciou-se pensando nos componentes necessários e em como eles seriam ligados. Com base nisso, foi feita uma tabela com os componentes utilizados e uma maquete eletrônica que auxialia na visualização da intenção do *design*.
 
 ## Componentes necessários 
 
