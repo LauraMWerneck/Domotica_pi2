@@ -25,6 +25,8 @@ Para o teste desse sensor eu liguei ele e dois LEDs distintos a placa do Arduino
 ![Figura 5: Esquemático teste Servo Motor.](./figuras/Teste_Servo.png)
 
 ## Referências
+
 OLIVEIRA, Euler. **Como usar com Arduino - Sensor PIR (Detector) de Movimento.** Disponível em: <https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-pir-detector-de-movimento>. Acesso em: 16 ago. 2021.
+
 DOS REIS, Fáio. **Como funciona um Sensor de Movimento PIR – Passive Infrared.** Disponível em: <http://www.bosontreinamentos.com.br/eletronica/como-funciona-um-sensor-de-movimento-pir-passive-infrared/>. Acesso em: 16 ago. 2021.
 
