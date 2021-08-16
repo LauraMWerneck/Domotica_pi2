@@ -12,7 +12,8 @@ Para a construção da maquete, foi usado a planta apresentada na parte da conce
 Nessa etapa, foram testados individualmente os componentes e apresentados suas principais características, para assim se ter um bom entendimento do funcionamento de cada um. Além disso, será apresentada a representação das ligações realizadas fisicamente por uma representação digital feita utilizando o *softwere* *Fritzing*.
 ### Sensor de Presença(PIR) e LEDs
 O PIR é um sensor que capta a radiação infravermelha de um corpo e assim aciona o que for desejado. Ele é um sensor capaz de detectar o movimento de corpos que emitam calor e que estejam em seu campo de alcance. A sensibilidade do alcance e do tempo de duração do sinal podem ser ajustados no próprio sensor.
-Para o teste desse sensor eu liguei ele e dois LEDs distintos a placa do Arduino. Quando o sensor estiver desativado(sem movimento) o LED vermelho está ativo e, quando o sensor detecta movimento o LED branco ativa. Isso foi feito conforme o esquemático abaixo e segundo o código apresentado a seguir:
+
+Para o teste desse sensor ele e dois LEDs distintos foram ligados à placa do Arduino. Quando o sensor estiver desativado(sem movimento) o LED vermelho está ativo e o branco desativado e, quando o sensor detecta movimento, o LED branco ativa e o vermelho desativa. Isso foi feito conforme o esquemático abaixo e segundo o código apresentado a seguir:
 ###### Figura 3 - Esquemático teste PIR com LEDs.
 ![Figura 3: Esquemático teste PIR com LEDs.](./figuras/Teste_PIR_LEDs.png)
 ### MQ2 e Buzzer
