@@ -3,8 +3,7 @@ Imagine poder chegar em casa após o trabalho e ela já estar com as luzes acesa
 
 Para que tudo isso seja possível é utilizada a Domótica, também conhecida como automação residencial. Ela trata da tecnologia capaz de automatizar algumas atividades diárias de uma casa e assim facilitar e dar conforto ao morador além de deixar a casa mais segura.
 
-![Figura 1: Casa Domotica.](./figuras/DOMOTICA.png)
-###### Fonte figura: https://leiritic.pt/domotica/
+![Figura 1: Casa Domotica.](https://leiritic.pt/wp-content/uploads/2019/11/DOMOTICA-1024x531.png)
 
 A Domótica já vem sendo usada em dispositivos como, por exemplo, a Alexa da Amazom, que é um dispositivo de automação residencial que executa algumas tarefas como se conectar com tomadas, lâmpadas, rede wi-fi, executar comandos de voz, entre outras. Com ela podemos, pelo celular ou falando com ela, ligar luzes, acionar tomadas, fazer ligações tudo por meio de um comando.
 
@@ -16,6 +15,8 @@ Com base no que foi exposto, percebe-se que a Domotica é uma tecnologia que est
 ## Referências
 
 ADMIN. **Casa inteligente: a tecnologia de Black Mirror já está o seu alcance!** Disponível em: <https://www.delmak.com.br/casa-inteligente-a-tecnologia-de-black-mirror-ja-esta-ao-seu-alcance/>. Acesso em: 23 mai. 2021.
+
+LEIRITIC. **DOMÓTICA, INTERCOMUNICAÇÃO E SEGURANÇA.** Disponível em: <https://leiritic.pt/domotica/>. Acesso em: 7 ago. 2021.
 
 MATTEDE, Henrique. **Domótica- Oque é e quais as vantagens!** Disponível em: <https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/>. Acesso em: 23 mai. 2021.
 
