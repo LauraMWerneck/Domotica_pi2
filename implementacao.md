@@ -22,7 +22,7 @@ Para o teste desse sensor ele e dois LEDs distintos foram ligados à placa do Ar
 O sensor MQ2 é um sensor que consegue identificar a presença de gases infumáveis ou fumaça em um ambiente. Quando ele detecta esses gases ele envia um sinal, que pode ser tanto analógico como digital, ao microcontrolador conectado, nesse caso o Arduino. No caso desse projeto, sempre que o sensor detectar uma quantidade limite de gás ele aciona um buzzer.
 O buzzer é um dispositivo piezoelétrico reverso, o qual funciona a partir de uma diferença de potencial aplicada em seus terminais, com uma determinada frequência, dessa forma a célula dentro dele irá vibrar na mesma frequência emitindo um som.
 
-Para o teste do sensor MQ2 utilizou-se ao mesmo tempo, o Buzzer, pois esse emite um sinal sonoro quando o sensor MQ2 indica que as concentrações de gases passaram do valor  limite. O esquemático abaixo representa como foi montado os componentes para teste e logo depois o código utilizado:
+Para o teste do sensor MQ2 utilizou-se ao mesmo tempo, o Buzzer, pois esse emite um sinal sonoro quando o sensor MQ2 indica que as concentrações de gases passaram do valor  limite. O esquemático abaixo representa como foi montado os componentes para teste e [aqui](./codigos/Teste_MQ2_Buzzer.ino) o código usado para o teste.
 
 ###### Figura 4 - Esquemático teste MQ2 e Buzzer.
 ![Figura 4: Esquemático teste MQ2 e Buzzer.](./figuras/Teste_MQ2_Buzzer.png)
@@ -31,7 +31,7 @@ Para o teste do sensor MQ2 utilizou-se ao mesmo tempo, o Buzzer, pois esse emite
 ### Servo Motor
 O Servo Motor é em grande parte utilizado para controle de movimento que exigem posicionamento de alta precisão. Eles são motores comuns que possui acoplado a ele um sensor de velocidade e um controlador. Ele trabalha com servo-mecanismo que usa o feedback de posição para controlar a velocidade e a posição final do motor.
 
-Para o seu teste ele foi ligado ao Arduino conforme a imagem a seguir e foi usado o código abaixo:
+Para o seu teste ele foi ligado ao Arduino conforme a imagem a seguir e foi usado o código que pode ser acessado [aqui](./codigos/Teste_Servo.ino).
 ###### Figura 5 - Esquemático teste Servo Motor.
 ![Figura 5: Esquemático teste Servo Motor.](./figuras/Teste_Servo.png)
 
