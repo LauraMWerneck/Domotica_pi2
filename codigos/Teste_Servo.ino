@@ -1,4 +1,10 @@
-
+/**********************************************************************************************************
+  Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina-Campus Florianópolis
+  Unidade Curricular: Projeto Integrador II
+  Aluna: Laura Martin Werneck
+  Semestre 2021.1
+  Objetivo: Teste do funcionamento do servo motor.
+************************************************************************************************************/
 #include <Servo.h> 
  
 Servo myservo; 
