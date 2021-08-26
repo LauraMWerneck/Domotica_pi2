@@ -1,3 +1,10 @@
+/**********************************************************************************************************
+  Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina-Campus Florianópolis
+  Unidade Curricular: Projeto Integrador II
+  Aluna: Laura Martin Werneck
+  Semestre 2021.1
+  Objetivo: Automção residencial
+************************************************************************************************************/
 #define LED_Q1 13 /* Q1 = quarto 1 (perto da cozinha) */
 #define LED_Q2 12 /* Q2 = quarto 2 (perto da sala) */
 #define LED_S 11 /* S = sala */
