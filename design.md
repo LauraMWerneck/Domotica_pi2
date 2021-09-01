@@ -1,6 +1,6 @@
 # *Design*
-
-Para começar a implementação do projeto iniciou-se pensando nos componentes necessários e em como eles seriam ligados. Com base nisso, foi feita uma tabela com os componentes utilizados e uma maquete eletrônica que auxilia na visualização da intenção do *design*. Além disso, esta parte do projeto baseou-se tamém na construção da maquete que representa-rá a casa do projeto, além dos testes individuais dos componentes e o entendimento do funcionamento destes.
+O intuito desse projeto é a construção do protótipo de uma casa, com o objetivo de automatizar algumas funcionalidades dela. 
+Dessa forma, para começar a implementação do projeto iniciou-se pensando nos componentes necessários e em como eles seriam ligados. Com base nisso, foi feita uma tabela com os componentes utilizados e uma maquete eletrônica que auxilia na visualização da intenção do *design*. Além disso, esta parte do projeto baseou-se também na construção da maquete que representa-rá a casa do projeto, além dos testes individuais dos componentes e o entendimento do funcionamento destes.
 
 ## Componentes necessários 
 
@@ -18,10 +18,12 @@ Além desses componentes é importante lembrar que será usado uma quantidade de
 
 ## Maquete Eletrônica
 
-Para a criação da maquete eletronica foi utilizado o software *Fritzing*. A partir dele foi criado o seguinte esquemático: 
+Para uma melhor representação das ligações feitas foi criado o seguinte esquemático: 
 
 ###### Figura 1 - Maquete eletrônica do projeto.
 ![Figura 1: Maquete eletrônica do projeto.](./figuras/Maquete_eletrônica.jpg)
+
+Essa figura mostra as ligações  dos seguintes componentes e suas funções no projeto: LEDs, usados na iluminação; sensor de presença que aciona um dos LEDs; sensor MQ2, que é o responsável por detectar gases inflamáveis; buzzer que é acionado pelo sensor de gás; e por último o servo motor, responsável por abrir e fechar a cancela na entrada da casa.
 
 ## Construção da Maquete
 Para a construção da maquete, foi usado a planta apresentada na parte da concepção do projeto como base. Dessa forma foram usadas placas de isopor para criar sua estrutura, além de tintas, papeis coloridos e plantas artificiais para dar um ar mais realístico. A seguir estão fotos da maquete finalizada:
@@ -31,7 +33,7 @@ Para a construção da maquete, foi usado a planta apresentada na parte da conce
 ![Figura 3: Maquete vista superior.](./figuras/Maquete_vista_superior.jpg)
 
 ## Teste dos Componentes
-Nessa etapa, foram testados individualmente os componentes e apresentados suas principais características, para assim se ter um bom entendimento do funcionamento de cada um. Além disso, será apresentada a representação das ligações realizadas fisicamente por uma representação digital feita utilizando o *softwere* *Fritzing*.
+Nessa etapa, foram testados individualmente os componentes e apresentadas suas principais características, para assim se ter um bom entendimento do funcionamento de cada um. Além disso, será apresentada a representação das ligações realizadas fisicamente por uma representação digital feita utilizando o *softwere* *Fritzing*.
 
 ### Sensor de Presença(PIR) e LEDs
 O PIR é um sensor que capta a radiação infravermelha de um corpo e assim aciona o que for desejado. Ele é um sensor capaz de detectar o movimento de corpos que emitam calor e que estejam em seu campo de alcance. A sensibilidade do alcance e do tempo de duração do sinal podem ser ajustados no próprio sensor.
@@ -68,3 +70,5 @@ PORTA, Leonardo Dalla. **SENSOR DE GÁS ARDUINO MQ-2 PARA GASES INFLAMÁVEIS E F
 BEZERRA, Victor Hugo Igino.**Buzzer ativo ou passivo. Qual é o ideal para o seu projeto?** Disponívem em: <https://www.adrobotica.com/buzzer-ativo-ou-passivo-qual-e-o-ideal-para-o-seu-projeto/>. Acesso em: 16 ago. 2021.
 
 SILVEIRA, Cristiano Bertulucci.**Servo Motor: Veja como Funciona e Quais os Tipos.** Dispnível em: <https://www.citisystems.com.br/servo-motor/>. Acesso em: 16 ago. 2021.
+
+[*Software* usado para as maquetes eletrônicas ](https://fritzing.org/)
