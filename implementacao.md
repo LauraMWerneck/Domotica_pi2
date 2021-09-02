@@ -1,9 +1,10 @@
 # Implementação
-Nesta parte do projeto foi feita a criação do produto a partir do *design*. Para isso foi criado o código de cada um dos componentes e um único código com todas as partes, além do posicionamento dos componentes na maquete em seus devidos lugares.
+O intuito desse projeto é a construção do protótipo de uma casa, com o objetivo de automatizar algumas funcionalidades dela.
+Então, nesta parte do projeto foi feita a criação do sistema a partir do *design*. Para isso foi realizado a integração dos componentes e um único código com todas as partes, além do posicionamento dos componentes na maquete em seus devidos lugares.
 
 Na etapa do *design* foram testados os componentes a serem usados. É preciso destacar que em alguns casos fora necessário a mudança do código ou de alguns ajustes para que eles funcionassem corretamente. Podemos citar como exemplo o sensor PIR, o qual foi necessário ajustar a sua sensibilidade e o seu tempo de resposta, além disso, ainda foi necessário ajustar o código usado para assim funcionar corretamente; outro caso foi o do código contendo o buzzer e o sensor MQ2, no caso deste o código para ativação do buzzer não apresentava o funcionamento esperado a intervenção dos professores foi necessária para clarear dúvidas referentes as diferenças de acionamento entre buzzers ativos e passivos, e as bibliotecas em C utilizadas para tais finalidades.
 
-Após entender o funcionamento de cada componente e de testá-los e ser comprovado o funcionamento correto destes, foi possível pensar em sua implementação especifica para as finalidades da casa automatizada. Em decorrência disso, seus códigos foram alterados para funcionarem de acordo com cada atividade prevista para a automação da casa, que no fim foram:
+Após entender o funcionamento de cada componente e de testá-los e ser comprovado o funcionamento correto destes, foi possível pensar em sua implementação específica para as finalidades da casa automatizada. Em decorrência disso, seus códigos foram alterados para funcionarem de acordo com cada atividade prevista para a automação da casa, que no fim foram:
 * O sensor de presença foi ajustado para acender apenas um LED no jardim caso capte movimentos;
 * Para os LEDs dos quartos e da sala foi criado um código para que estes acendam por um comando do computador;
 * Foi ajustado o código do servo motor da cancela na entrada para ela abrir 90° para cima por um comando do computador e fechar com outro comando;
