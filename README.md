@@ -12,3 +12,5 @@ Clicando nos tópicos abaixo será possivel ver com mais detalhes as etapas de c
  * [Design](/design.md)
 
  * [Implementação](/implementacao.md)
+ 
+ *[Operação](/operacao.md)
