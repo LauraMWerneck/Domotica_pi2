@@ -13,4 +13,4 @@ Clicando nos tópicos abaixo será possivel ver com mais detalhes as etapas de c
 
  * [Implementação](/implementacao.md)
  
- *[Operação](/operacao.md)
+ * [Operação](/operacao.md)
